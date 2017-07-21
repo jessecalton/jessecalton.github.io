@@ -666,6 +666,19 @@
 				width: 100%;
 			}
 
+/* Custom image tags for the Skills picture */
+			.img img {
+			border-radius: 4px;
+			display: block;
+			margin-left: 25%;
+			margin-bottom: 25px
+		}
+
+			.img.zelda img {
+				width: 50%;
+				height: 50%;
+			}
+
 		@media screen and (max-width: 736px) {
 
 			.image.main {
